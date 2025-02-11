@@ -34,7 +34,7 @@
 - из компонента `Store` передать правильную иконку в свойство `icon` компонента `IconSwitch`;
 - в компоненте `Store` отобразить товары в компоненте `CardsView` или `ListView` соответсвенно состоянию компонента `App`.
 
-![list_view](./assets/list_view.png)
+![list_view](src/img/list_view.png)
 
 Не забудьте подключить Material Icons:
 ```css
